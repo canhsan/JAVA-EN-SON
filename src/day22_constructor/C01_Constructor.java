@@ -22,8 +22,7 @@ public class C01_Constructor {
             Bu class'lar kaliphane gibi calisir
             Yani o class'dan ayni ozelliklere sahip objeler uretmemizi saglar
 
-
-
+         ////////////////////////////////////////////////////////////////////////////////////////////////
          */
 
         Scanner scan = new Scanner(System.in);
