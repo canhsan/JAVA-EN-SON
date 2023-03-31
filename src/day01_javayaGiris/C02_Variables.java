@@ -29,5 +29,6 @@ public class C02_Variables {
         bakiye=300;
 
         System.out.println( bakiye ); // 300
+        System.out.println("Merhaba branch");
     }
 }
